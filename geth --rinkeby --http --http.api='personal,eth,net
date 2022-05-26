@@ -1,0 +1,2 @@
+geth --rinkeby --http --http.api='personal,eth,network,web3,net' --ipcpath "~/.ethereum/geth.ipc"
+geth --rinkeby account new
